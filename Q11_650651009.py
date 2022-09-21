@@ -45,6 +45,7 @@ my_layout = Layout(title='Global World Fire')
 
 fig = {'data': data, 'layout': my_layout}
 offline.plot(fig, filename='global_kkk.html')
+#test
 
 
 
